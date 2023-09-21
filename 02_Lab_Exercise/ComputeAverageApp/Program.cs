@@ -7,19 +7,27 @@ namespace ComputeAverageApp {
     static void Main(String[] args) {
 
       Console.WriteLine("Enter five(5) grades separated by a new line: ");
-      double Gr1 = Convert.ToDouble(Console.ReadLine());
-      double Gr2 = Convert.ToDouble(Console.ReadLine());
-      double Gr3 = Convert.ToDouble(Console.ReadLine());
-      double Gr4 = Convert.ToDouble(Console.ReadLine());
-      double Gr5 = Convert.ToDouble(Console.ReadLine());
+      
+      double[] Grades = new double[5];
 
-      double added = Gr1 + Gr2 + Gr3 + Gr4 + Gr5;
-      double avg = added / 5;
+      int arrayNum = 0;
 
-      int RoundOff = Convert.ToInt32(Math.Round(avg));
+      do {
+        Grades[arrayNum] = Convert.ToDouble(Console.ReadLine());
+        arrayNum++;
+      } while (arrayNum < Grades.Length);
 
-      Console.WriteLine("The average is " + avg + " and round off to " + RoundOff );
-      Console.Write("Press any key to exit...");
+      double GradeAdd = 0;
+      foreach (double usrInput in Grades) {
+        GradeAdd += usrInput;
+      }
+
+      double Avg = GradeAdd / Grades.Length;
+      int RoundOff = Convert.ToInt32(Math.Round(Avg));
+
+      Console.WriteLine("The average is " + Avg + " and got rounded off to " + RoundOff);
+
+      Console.WriteLine("Press ANY key to exit...");
       Console.ReadKey();
 
     }
