@@ -1,0 +1,17 @@
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.exe
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.deps.json
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.runtimeconfig.json
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.dll
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.pdb
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.frmStudentRegistration.resources
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.csproj.GenerateResource.cache
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.AssemblyInfoInputs.cache
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.AssemblyInfo.cs
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.dll
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\refint\StudentRegistrationApplication.dll
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.pdb
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.genruntimeconfig.cache
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\ref\StudentRegistrationApplication.dll
+C:\Users\anony\Source\Repos\StudentRegistrationApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.frmStudentRegistrationValidation.resources
