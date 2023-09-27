@@ -1,0 +1,15 @@
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.csproj.AssemblyReference.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.GeneratedMSBuildEditorConfig.editorconfig
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.AssemblyInfoInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.AssemblyInfo.cs
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.csproj.CoreCompileInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/bin/Debug/net7.0/OneDimensional
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/bin/Debug/net7.0/OneDimensional.deps.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/bin/Debug/net7.0/OneDimensional.runtimeconfig.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/bin/Debug/net7.0/OneDimensional.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/bin/Debug/net7.0/OneDimensional.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/refint/OneDimensional.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/OneDimensional.genruntimeconfig.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/OneDimensional/obj/Debug/net7.0/ref/OneDimensional.dll
