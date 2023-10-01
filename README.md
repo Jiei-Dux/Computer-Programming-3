@@ -2,7 +2,6 @@
 
 <pre>
 Prelim
-    - C#
-    - WinForms
+    - C# [ WinForms ]
 </pre>
 
