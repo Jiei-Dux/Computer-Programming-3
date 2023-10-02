@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UagdC2qiijXYqu+/yMQXkN+W17wfk3WESCNfSMbXcef+/biyo7uF5GDCqUTGA7hjZ3vp+HgXaZbreiVtsLM6XA==",
+  "success": true,
+  "projectFilePath": "/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/04_Lab_Exercise.csproj",
+  "expectedPackageFiles": [
+    "/home/dux/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/bin/Debug/net7.0/TwoDimensional
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/bin/Debug/net7.0/TwoDimensional.deps.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/bin/Debug/net7.0/TwoDimensional.runtimeconfig.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/bin/Debug/net7.0/TwoDimensional.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/bin/Debug/net7.0/TwoDimensional.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.csproj.AssemblyReference.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.GeneratedMSBuildEditorConfig.editorconfig
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.AssemblyInfoInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.AssemblyInfo.cs
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.csproj.CoreCompileInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/refint/TwoDimensional.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/TwoDimensional.genruntimeconfig.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/TwoDimensional/obj/Debug/net7.0/ref/TwoDimensional.dll

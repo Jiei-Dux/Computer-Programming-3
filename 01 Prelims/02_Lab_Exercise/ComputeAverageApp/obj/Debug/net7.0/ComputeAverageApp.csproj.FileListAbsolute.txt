@@ -1,0 +1,15 @@
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.csproj.AssemblyReference.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.AssemblyInfoInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.AssemblyInfo.cs
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.csproj.CoreCompileInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.deps.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.runtimeconfig.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/bin/Debug/net7.0/ComputeAverageApp.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/refint/ComputeAverageApp.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ComputeAverageApp.genruntimeconfig.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/02_Lab_Exercise/ComputeAverageApp/obj/Debug/net7.0/ref/ComputeAverageApp.dll

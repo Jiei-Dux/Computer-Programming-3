@@ -1,0 +1,15 @@
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.csproj.AssemblyReference.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.AssemblyInfoInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.AssemblyInfo.cs
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.csproj.CoreCompileInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/bin/Debug/net7.0/ThreeInOne
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/bin/Debug/net7.0/ThreeInOne.deps.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/bin/Debug/net7.0/ThreeInOne.runtimeconfig.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/bin/Debug/net7.0/ThreeInOne.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/bin/Debug/net7.0/ThreeInOne.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/refint/ThreeInOne.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ThreeInOne.genruntimeconfig.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04 Quiz 1/ThreeInOne/obj/Debug/net7.0/ref/ThreeInOne.dll

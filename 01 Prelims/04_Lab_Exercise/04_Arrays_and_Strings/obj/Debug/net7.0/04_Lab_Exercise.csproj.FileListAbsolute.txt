@@ -1,0 +1,15 @@
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.csproj.AssemblyReference.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.AssemblyInfoInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.AssemblyInfo.cs
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.csproj.CoreCompileInputs.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/bin/Debug/net7.0/04_Lab_Exercise
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/bin/Debug/net7.0/04_Lab_Exercise.deps.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/bin/Debug/net7.0/04_Lab_Exercise.runtimeconfig.json
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/bin/Debug/net7.0/04_Lab_Exercise.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/bin/Debug/net7.0/04_Lab_Exercise.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/refint/04_Lab_Exercise.dll
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.pdb
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/04_Lab_Exercise.genruntimeconfig.cache
+/home/dux/Documents/School/2nd Year on STI/Computer Programming 3/01 Prelims/04_Lab_Exercise/04_Arrays_and_Strings/obj/Debug/net7.0/ref/04_Lab_Exercise.dll
