@@ -129,10 +129,10 @@ namespace MSA {
             do {
 
                 Console.Clear();
-                string Dialogue = "Which Activity do you want to access?\n";
-                Dialogue += "1. Activity 1: Names and Greetings\n";
-                Dialogue += "2. Activity 2: Total Item Price\n";
-                Dialogue += "3. Quit Program\n\n";
+                string Dialogue = "Which do you want to access?\n";
+                Dialogue += "Activity 1.1: Names and Greetings\n";
+                Dialogue += "Activity 1.2: Total Item Price\n";
+                Dialogue += "Quit Program\n\n";
                 Dialogue += "User Input [1-3]: ";
 
                 Console.Write(Dialogue);
