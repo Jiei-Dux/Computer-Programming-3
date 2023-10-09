@@ -1,0 +1,15 @@
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.csproj.AssemblyReference.cache
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.GeneratedMSBuildEditorConfig.editorconfig
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.AssemblyInfoInputs.cache
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.AssemblyInfo.cs
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.csproj.CoreCompileInputs.cache
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/bin/Debug/net7.0/Methods and Structures Activity
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/bin/Debug/net7.0/Methods and Structures Activity.deps.json
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/bin/Debug/net7.0/Methods and Structures Activity.runtimeconfig.json
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/bin/Debug/net7.0/Methods and Structures Activity.dll
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/bin/Debug/net7.0/Methods and Structures Activity.pdb
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.dll
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/refint/Methods and Structures Activity.dll
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.pdb
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/Methods and Structures Activity.genruntimeconfig.cache
+/home/dux/REPO/Computer-Programming-3/02 Midterms/Methods and Structures Activity/obj/Debug/net7.0/ref/Methods and Structures Activity.dll
