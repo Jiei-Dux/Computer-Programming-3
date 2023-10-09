@@ -125,7 +125,7 @@ namespace MSA {
 
 
         static void mainMenu() {
-
+            
             do {
 
                 Console.Clear();
@@ -137,26 +137,27 @@ namespace MSA {
 
                 Console.Write(Dialogue);
 
-                int usrInput = Convert.ToInt32(Console.ReadLine());
+                try {
+                    
+                    int usrInput = Convert.ToInt32(Console.ReadLine());
 
-                if ( usrInput == 1 ) {
+                    if ( usrInput == 1 ) {
+                        nameAndGreetingPrompt();
+                    }
 
-                    nameAndGreetingPrompt();
+                    if ( usrInput == 2 ) {
+                        itemPricePrompt();
+                    }
 
-                }
+                    if ( usrInput == 3 ) {
+                        Console.Write("Bye bye~");
+                        THING = false;
+                    }
 
-                if ( usrInput == 2 ) {
-
-                    itemPricePrompt();
-
-                }
-
-                if ( usrInput == 3 ) {
-
-                    Console.Write("Bye bye~");
-                    //Environment.Exit(0);
-                    THING = false;
-
+                } catch ( Exception e ) {
+                    Console.WriteLine("Enter something pls...");
+                    Thread.Sleep(2000);
+                    mainMenu();
                 }
 
             } while ( THING == true);
@@ -168,9 +169,7 @@ namespace MSA {
 
 
         static void Main(string[] args) {
-
             mainMenu();
-
         }
 
     }
