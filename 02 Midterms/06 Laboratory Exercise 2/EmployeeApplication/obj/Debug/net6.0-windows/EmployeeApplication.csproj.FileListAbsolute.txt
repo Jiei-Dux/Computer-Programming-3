@@ -1,0 +1,16 @@
+C:\Users\anony\REPO\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.exe
+C:\Users\anony\REPO\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.deps.json
+C:\Users\anony\REPO\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.runtimeconfig.json
+C:\Users\anony\REPO\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.dll
+C:\Users\anony\REPO\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.pdb
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.frmEmployeeDatabase.resources
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfo.cs
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.dll
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\refint\EmployeeApplication.dll
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.pdb
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.genruntimeconfig.cache
+C:\Users\anony\REPO\EmployeeApplication\obj\Debug\net6.0-windows\ref\EmployeeApplication.dll
