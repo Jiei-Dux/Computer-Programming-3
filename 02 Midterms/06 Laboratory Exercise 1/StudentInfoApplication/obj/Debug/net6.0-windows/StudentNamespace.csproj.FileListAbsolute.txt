@@ -1,0 +1,16 @@
+C:\Users\anony\REPO\StudentInfoApplication\bin\Debug\net6.0-windows\StudentNamespace.exe
+C:\Users\anony\REPO\StudentInfoApplication\bin\Debug\net6.0-windows\StudentNamespace.deps.json
+C:\Users\anony\REPO\StudentInfoApplication\bin\Debug\net6.0-windows\StudentNamespace.runtimeconfig.json
+C:\Users\anony\REPO\StudentInfoApplication\bin\Debug\net6.0-windows\StudentNamespace.dll
+C:\Users\anony\REPO\StudentInfoApplication\bin\Debug\net6.0-windows\StudentNamespace.pdb
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.frmStudentInfo.resources
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.csproj.GenerateResource.cache
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.AssemblyInfoInputs.cache
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.AssemblyInfo.cs
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.csproj.CoreCompileInputs.cache
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.dll
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\refint\StudentNamespace.dll
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.pdb
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\StudentNamespace.genruntimeconfig.cache
+C:\Users\anony\REPO\StudentInfoApplication\obj\Debug\net6.0-windows\ref\StudentNamespace.dll
