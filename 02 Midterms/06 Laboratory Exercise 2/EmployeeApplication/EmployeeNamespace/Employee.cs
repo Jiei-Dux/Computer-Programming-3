@@ -46,6 +46,19 @@ namespace EmployeeApplication.EmployeeNamespace
         // ========== // ========== // ========== // ========== // ========== //
 
 
+        public Employee(string fname, string lname)
+        {
+            FName = fname;
+            LName = lname;
+        }
+        
+        public Employee(int employeeID, string fname, string lname)
+        {
+            EmployeeID = employeeID;
+            FName = fname;
+            LName = lname;
+        }
+        
         public Employee(int employeeID, string fname, string lname, string position)
         {
             EmployeeID = employeeID;
