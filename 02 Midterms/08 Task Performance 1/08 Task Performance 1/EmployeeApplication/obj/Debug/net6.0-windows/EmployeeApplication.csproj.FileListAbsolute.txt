@@ -1,0 +1,16 @@
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.exe
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.deps.json
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.runtimeconfig.json
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.dll
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\bin\Debug\net6.0-windows\EmployeeApplication.pdb
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.frmComputeSalary.resources
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.AssemblyInfo.cs
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.dll
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\refint\EmployeeApplication.dll
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.pdb
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\EmployeeApplication.genruntimeconfig.cache
+C:\Users\anony\Desktop\SHITE\02 Midterms\08 Task Performance 1\EmployeeApplication\obj\Debug\net6.0-windows\ref\EmployeeApplication.dll
