@@ -1,0 +1,16 @@
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\bin\Debug\net6.0-windows\ThreadingThing.exe
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\bin\Debug\net6.0-windows\ThreadingThing.deps.json
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\bin\Debug\net6.0-windows\ThreadingThing.runtimeconfig.json
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\bin\Debug\net6.0-windows\ThreadingThing.dll
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\bin\Debug\net6.0-windows\ThreadingThing.pdb
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.FrmTrackThread.resources
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.csproj.GenerateResource.cache
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.AssemblyInfoInputs.cache
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.AssemblyInfo.cs
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.csproj.CoreCompileInputs.cache
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.dll
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\refint\ThreadingThing.dll
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.pdb
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ThreadingThing.genruntimeconfig.cache
+C:\Users\anony\Desktop\SHITE\ThreadingThing\ThreadingThing\obj\Debug\net6.0-windows\ref\ThreadingThing.dll

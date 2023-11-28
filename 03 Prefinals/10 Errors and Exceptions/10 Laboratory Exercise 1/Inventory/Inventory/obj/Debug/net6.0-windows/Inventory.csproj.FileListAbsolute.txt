@@ -1,0 +1,16 @@
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.AssemblyInfoInputs.cache
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.AssemblyInfo.cs
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.csproj.GenerateResource.cache
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\bin\Debug\net6.0-windows\Inventory.exe
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\bin\Debug\net6.0-windows\Inventory.deps.json
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\bin\Debug\net6.0-windows\Inventory.runtimeconfig.json
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\bin\Debug\net6.0-windows\Inventory.dll
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\bin\Debug\net6.0-windows\Inventory.pdb
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.dll
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\refint\Inventory.dll
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.pdb
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.genruntimeconfig.cache
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\ref\Inventory.dll
+C:\Users\anony\Desktop\SHITE\Inventory\Inventory\obj\Debug\net6.0-windows\Inventory.FrmAddProduct.resources
